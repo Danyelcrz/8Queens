@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b487fd72-2e09-4213-9d3c-d708876a9f96" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UZVj8NFKcbQmoOlUTdIYEyg1y6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.minsait" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Reina">
+    <configuration name="Reina" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.minsait.Reina" />
+      <module name="Ajedrez" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minsait.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tablero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.minsait.Tablero" />
+      <module name="Ajedrez" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minsait.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Reina" />
+        <item itemvalue="Application.Tablero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b487fd72-2e09-4213-9d3c-d708876a9f96" name="Default Changelist" comment="" />
+      <created>1575564236142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575564236142</updated>
+      <workItem from="1575564240040" duration="16012000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1575583492996">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="580" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1575581941118" />
+    <state x="773" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1575583492996" />
+    <state x="773" y="218" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1008@0.23.1920.1008" timestamp="1575579157641" />
+    <state x="850" y="250" width="671" height="579" key="#xdebugger.evaluate" timestamp="1575587370898">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="850" y="250" width="671" height="579" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1575587370898" />
+    <state width="1878" height="390" key="GridCell.Tab.0.bottom" timestamp="1575587777096">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575581475641" />
+    <state width="1878" height="390" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1575587777096" />
+    <state width="1878" height="390" key="GridCell.Tab.0.center" timestamp="1575587777095">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575581475640" />
+    <state width="1878" height="390" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1575587777095" />
+    <state width="1878" height="390" key="GridCell.Tab.0.left" timestamp="1575587777095">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575581475639" />
+    <state width="1878" height="390" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1575587777095" />
+    <state width="1878" height="390" key="GridCell.Tab.0.right" timestamp="1575587777096">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575581475640" />
+    <state width="1878" height="390" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1575587777096" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom" timestamp="1575587381015">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1575587381015" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center" timestamp="1575587381014">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1575587381014" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left" timestamp="1575587381013">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1575587381013" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right" timestamp="1575587381014">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1575587381014" />
+    <state x="776" y="465" key="ReplaceDuplicatesPrompt" timestamp="1575584680103">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="776" y="465" key="ReplaceDuplicatesPrompt/0.0.1920.1080@0.0.1920.1080" timestamp="1575584680103" />
+    <state x="698" y="300" width="524" height="484" key="extract.method.dialog" timestamp="1575584677894">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="300" width="524" height="484" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1575584677894" />
+    <state x="389" y="231" key="new project wizard" timestamp="1575571299389">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="389" y="231" key="new project wizard/0.23.1920.1008@0.23.1920.1008" timestamp="1575571299389" />
+    <state x="625" y="239" width="894" height="725" key="search.everywhere.popup" timestamp="1575586019237">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="199" width="670" height="604" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1575581940296" />
+    <state x="625" y="239" width="894" height="725" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1575586019237" />
+    <state x="625" y="246" width="670" height="676" key="search.everywhere.popup/0.23.1920.1008@0.23.1920.1008" timestamp="1575569196124" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/minsait/Reina.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
